@@ -5,8 +5,8 @@ An embedded Linux project implementing the classic Snake Game on BeagleBone Blac
 Features :
 
   - Device Tree : I2C device declaration (0x3C) and GPIO pinmux/button mapping
-  - Linux Interrupt Request (IRQ): handling button input events
-  - GPIO subsystem & Pin Control subsystem: configuring GPIO pins and using GPIO descriptor-based
+  - Linux Interrupt Request (IRQ): handling function for button
+  - GPIO subsystem & Pin Control subsystem: set mode for GPIO pins 
 
 <img width="1543" height="740" alt="image" src="https://github.com/user-attachments/assets/77cc5722-7a4d-4ba0-968c-f0dd7a8a7ba8" />
 <img width="731" height="690" alt="image" src="https://github.com/user-attachments/assets/f8c7091c-7697-4790-9e38-55e21c1f88fc" />
