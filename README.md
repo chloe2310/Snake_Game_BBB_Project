@@ -7,4 +7,7 @@ Features :
   - Device Tree : I2C device declaration (0x3C) and GPIO pinmux/button mapping
   - Linux Interrupt Request (IRQ): handling button input events
   - Linux GPIO & pinctrl: configuring input pins and using GPIO descriptor-based access
-  - GPIO subsystem & Pin Control subsystem: configuring GPIO pins and using GPIO descriptor-based 
+  - GPIO subsystem & Pin Control subsystem: configuring GPIO pins and using GPIO descriptor-based
+
+<img width="855" height="808" alt="image" src="https://github.com/user-attachments/assets/ead8e323-5956-45b5-8926-10c4a74a709b" />
+
